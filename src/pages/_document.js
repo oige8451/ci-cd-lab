@@ -7,6 +7,8 @@ export default function Document() {
       <body>
         <Main />
         <NextScript />
+        <h1>Welcome to my CI/CD lab!</h1>
+
       </body>
     </Html>
   );
